@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="center"> <a href="https://twitter.com/Burhan_Raja52" target="blank"><img src="https://img.shields.io/twitter/follow/burhan_raja@52?logo=twitter&style=for-the-badge" alt="burhan_raja@52" /></a> </p>
-<div align="center">
+
 - 🔭 I’m currently working on [iNoteBook Backend](https://github.com/BurhanRaja/iNotebook_Backend) and [iNoteBook Frontend](https://github.com/BurhanRaja/iNotebook_Frontend) 
 
 - 🌱 I’m currently learning **Reactjs, Nodejs** 
@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **burhanraja02@yahoo.com**
 
-</div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/burhan_raja@52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="burhan_raja@52" height="30" width="40" /></a>
