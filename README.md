@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [React Movie Rating App](https://github.com/BurhanRaja/React-Movie-Rating)
 
-- 🌱 I’m currently learning **Reactjs, Nodejs** 
+- 🌱 I’m currently learning **Reactjs, Nodejs, Strapi** 
 
 - 💬 Ask me about **HTML, CSS, Java, Javascript, Reactjs, Nodejs**
 
