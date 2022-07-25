@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/Burhan_Raja52" target="blank"><img src="https://img.shields.io/twitter/follow/burhan_raja@52?logo=twitter&style=for-the-badge" alt="burhan_raja@52" /></a> </p>
 
-- 🔭 I’m currently working on [React Movie Rating App](https://github.com/BurhanRaja/React-Movie-Rating)
+- 🔭 I’m currently working on [Strapi Blog App](https://github.com/BurhanRaja/Strapi-Blog-Backend-App)
 
 - 🌱 I’m currently learning **Reactjs, Nodejs, Redux** 
 
