@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/Burhan_Raja52" target="blank"><img src="https://img.shields.io/twitter/follow/burhan_raja@52?logo=twitter&style=for-the-badge" alt="burhan_raja@52" /></a> </p>
 
-<h3 align="center">Checkout my [Blogs](https://burhan-techblogs.netlify.app/)</h3>
+<a href="https://burhan-techblogs.netlify.app/" target="blank"><h3 align="center">Checkout my Blogs on Computer Science.</h3></a>
 
 - 🔭 I’m currently working on [Project Management App](https://github.com/BurhanRaja/Project-Management-App.git)
 
