@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Data Structures and Algorithm](https://github.com/BurhanRaja/Data_Structures_Aand_Algorithms.git)
 
-- 🌱 I’m currently learning **Reactjs, Nodejs, Redux** 
+- 🌱 I’m currently learning **Reactjs, Nodejs, Redux, MongoDB, Data Structures and Algorithms, System Design, Database Management System** 
 
 - 💬 Ask me about **HTML, CSS, Java, Javascript, Reactjs, Nodejs**
 
