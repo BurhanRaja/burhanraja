@@ -5,7 +5,7 @@
 
 <a href="https://burhan-techblogs.netlify.app/" target="blank"><h3 align="center">Checkout my Blogs on Computer Science.</h3></a>
 
-- 🔭 I’m currently working on [Project Management App](https://github.com/BurhanRaja/Project-Management-App.git)
+- 🔭 I’m currently working on [Data Structures and Algorithm](https://github.com/BurhanRaja/Data_Structures_Aand_Algorithms.git)
 
 - 🌱 I’m currently learning **Reactjs, Nodejs, Redux** 
 
