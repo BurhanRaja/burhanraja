@@ -5,9 +5,9 @@
 
 <a href="https://burhan-techblogs.netlify.app/" target="blank"><h3 align="center">Checkout my Blogs on Programming and Development.</h3></a>
 
-- 🔭 I’m currently working on [Data Structures and Algorithm](https://github.com/BurhanRaja/Data_Structures_Aand_Algorithms.git)
+- 🔭 I’m currently working on Full Stack Developer skills.
 
-- 🌱 I’m currently learning **Reactjs, Nodejs, Redux, MongoDB, Data Structures and Algorithms, System Design, Database Management System** 
+- 🌱 I’m currently learning **Reactjs, Nodejs, Redux, MongoDB, Data Structures and Algorithms, System Design, Database Management System, Docker, Kubernetes** 
 
 - 💬 Ask me about **HTML, CSS, Java, Javascript, Reactjs, Nodejs**
 
