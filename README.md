@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/76507095/191438917-1d5ccc87-12cd-49d5-820c-0b0180db40aa.png" alt="profile" width="190" height="200"/>
+  
+  <img src="https://user-images.githubusercontent.com/76507095/191487843-546f1822-dada-46e4-a441-8183e55495ce.jpg" height="400" width="700" />
 </div>
+
 <h1 align="center">Hi 👋, I'm Burhanuddin Raja</h1>
 
 <div id="badges" align="center">
@@ -12,14 +14,8 @@
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+
   </a>
-</div>
-
-<br>
-
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/76507095/191446952-6a774b9f-f4d4-4d93-bdfe-3b69d0e5f397.gif" height="500" width="800" />
 </div>
 
 ---
