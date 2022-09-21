@@ -65,8 +65,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 <h2 align="center"> :fire: My Stats </h2>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=burhanraja&show_icons=true&locale=en&theme=highcontrast" alt="burhanraja" /></p>
 
-&nbsp;
+<div align="center">
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=burhanraja&show_icons=true&locale=en&theme=highcontrast" alt="burhanraja" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=burhanraja&" alt="burhanraja" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=burhanraja&theme=highcontrast" alt="burhanraja" /></p>
+
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanraja&layout=compact&theme=vision-friendly-dark" alt="burhanraja" /></p>
+
+</div>
