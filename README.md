@@ -26,7 +26,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m currently working on Full Stack Developer skills.
 
-- :seedling: I’m currently learning **Reactjs, Nodejs, Redux, MongoDB, Data Structures and Algorithms, System Design, Database Management System, Docker, Kubernetes** 
+- :seedling: I’m currently learning **Reactjs, Nodejs, Redux, MongoDB, Data Structures and Algorithms, System Design, Database Management System, Docker** 
 
 - :zap: Ask me about **HTML, CSS, Java, Javascript, Reactjs, Nodejs**
 
@@ -60,7 +60,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" height="50" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" height="50" width="50" />
 </div>
 
 ---
