@@ -20,6 +20,7 @@
 </div>
 
 ---
+
 <h2 align="center"> :man_technologist: About me </h2>
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -62,6 +63,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://user-images.githubusercontent.com/76507095/191493842-216d99e9-9438-4bf2-a350-300294204384.jpg" alt="Cypress" height="50" width="50" />
 <img src="https://user-images.githubusercontent.com/76507095/191493904-d3a9f032-543d-4cc7-9d00-63dac6e3877c.png" alt="swaggerAPI" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" height="50" width="50" />
+</div>
+
+---
+<div align="center">
+<h2>Achievements</h2>
+<a href="https://www.holopin.io/userbadge/cl947euxr1891309l37nvsdjso"><img src="https://user-images.githubusercontent.com/76507095/195771829-f9bdf7d9-6059-44a4-a586-45db560a00e0.jpg" height=100 width=100 /> </a>
+<a href="https://www.holopin.io/userbadge/cl97z8081195009miiks4c5nx"><img src="https://user-images.githubusercontent.com/76507095/195771837-ddcc8833-cb14-469e-a09f-af912c09687e.jpg" height=100 width=100 /> </a>
 </div>
 
 ---
