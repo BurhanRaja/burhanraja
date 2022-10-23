@@ -68,9 +68,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 <div align="center">
 <h2>Achievements</h2>
-<a href="https://www.holopin.io/userbadge/cl947euxr1891309l37nvsdjso"><img src="https://user-images.githubusercontent.com/76507095/195771829-f9bdf7d9-6059-44a4-a586-45db560a00e0.jpg" height=100 width=100 /> </a>
-<a href="https://www.holopin.io/userbadge/cl97z8081195009miiks4c5nx"><img src="https://user-images.githubusercontent.com/76507095/195771837-ddcc8833-cb14-469e-a09f-af912c09687e.jpg" height=100 width=100 /> </a>
-<a href="https://www.holopin.io/userbadge/cl9dnfoym1216609l49bwjsijr"><img src="https://user-images.githubusercontent.com/76507095/197341159-a01bb815-e137-4816-aa36-76626daef812.jpg" height=100 width=100 /> </a>
+<a href="https://www.holopin.io/userbadge/cl947euxr1891309l37nvsdjso"><img src="https://user-images.githubusercontent.com/76507095/195771829-f9bdf7d9-6059-44a4-a586-45db560a00e0.jpg" height=120 width=120 /> </a>
+<a href="https://www.holopin.io/userbadge/cl97z8081195009miiks4c5nx"><img src="https://user-images.githubusercontent.com/76507095/195771837-ddcc8833-cb14-469e-a09f-af912c09687e.jpg" height=120 width=120 /> </a>
+<a href="https://www.holopin.io/userbadge/cl9dnfoym1216609l49bwjsijr"><img src="https://user-images.githubusercontent.com/76507095/197341159-a01bb815-e137-4816-aa36-76626daef812.jpg" height=120 width=120 /> </a>
+<a href="https://www.holopin.io/userbadge/cl9kzilmt055709jnagnqt74g"><img src="https://user-images.githubusercontent.com/76507095/197393678-9dbbb690-2c08-4b5a-a6e5-b017a1df9285.jpg" height=120 width=120 /> </a>
+
 </div>
 
 ---
