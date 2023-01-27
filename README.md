@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: I’m currently learning **Reactjs, Nodejs, Redux, MongoDB, Data Structures and Algorithms, System Design, Database Management System, Docker** 
 
-- :zap: Ask me about **HTML, CSS, Java, Javascript, Reactjs, Nodejs**
+- :zap: Ask me about **HTML, CSS, Java, Javascript, Reactjs, Nodejs, Expressjs, MongoDB**
 
 - :mailbox: How to reach me **burhanraja02@yahoo.com**
 
