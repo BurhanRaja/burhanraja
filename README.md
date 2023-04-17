@@ -85,11 +85,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=burhanraja&theme=highcontrast" alt="burhanraja" /></p>
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanraja&layout=compact&theme=vision-friendly-dark" alt="burhanraja" /></p>
-  
-  <div style="display: none;">
-<div style="display: none;">
-https://user-images.githubusercontent.com/76507095/232023456-848d1f25-9cc0-429a-8e54-27667c309b73.png 
-</div>
-  </div>
 
 </div>
